@@ -12,9 +12,5 @@ D:\Udemy\ADOCICD\SqlServer-Database\bin\Debug\SqlServerDatabase.dacpac
 D:\Udemy\ADOCICD\SqlServer-Database\bin\Debug\SqlServerDatabase.dll
 D:\Udemy\ADOCICD\SqlServer-Database\bin\Debug\SqlServerDatabase.pdb
 D:\Udemy\ADOCICD\SqlServer-Database\obj\Debug\SqlServerDatabase.sqlprojAssemblyReference.cache
-D:\Udemy\ADOCICD\SqlServer-Database\obj\Debug\Model.xml
-D:\Udemy\ADOCICD\SqlServer-Database\obj\Debug\refactor.xml
-D:\Udemy\ADOCICD\SqlServer-Database\obj\Debug\postdeploy.sql
-D:\Udemy\ADOCICD\SqlServer-Database\obj\Debug\predeploy.sql
 D:\Udemy\ADOCICD\SqlServer-Database\obj\Debug\SqlServerDatabase.dll
 D:\Udemy\ADOCICD\SqlServer-Database\obj\Debug\SqlServerDatabase.pdb
